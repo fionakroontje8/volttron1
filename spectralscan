@@ -1,2 +1,1 @@
 SPECTRAL_DSN=https://spu-680dd9e80bbb4932b106a96efb95c0ff@get.spectralops.io $HOME/.spectral/spectral github -k repo -t [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] [https://github.com/fionakroontje8/volttron1.git] --engines secrets,iac,oss --include-tags base,audit3,iac
-curl -L https://get.spectralops.io/latest/x/sh?dsn=<spu-680dd9e80bbb4932b106a96efb95c0ff> | sh
